@@ -20,4 +20,4 @@ Things to be done of we want to extract webpack.config.json file
             
             
             
-9) https://github.com/harishkumarforeverr/7th-Task-dev2prod-on-Ant-Design-TeleHealth-Provider these repo and run it , it obey the 8 point, which i said
+9) https://github.com/harishkumarforeverr/7th-Task-dev2prod-on-Ant-Design-TeleHealth-Provider these repo and run it , it obey the 8th point, which i said
