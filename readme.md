@@ -8,7 +8,7 @@ Things to be done of we want to extract webpack.config.json file
     //   ? shouldUseSourceMap
     //     ? 'source-map'
     //     : false
-    //   : isEnvDevelopment && 'cheap-module-source-map',  -----> commmet these line and (line no 135 to139 in webpack.config.json file)
+    //   : isEnvDevelopment && 'cheap-module-source-map',  -----> commmet these line (line no 135 to139 in webpack.config.json file) and
  add these line in our   webpack.config.json file   ---->  devtool: 'cheap-module-source-map',
 7) then in webpack.config.json file
             sourceMap: isEnvProduction && shouldUseSourceMap, ---> comment these one at evry place where you see thesee 
